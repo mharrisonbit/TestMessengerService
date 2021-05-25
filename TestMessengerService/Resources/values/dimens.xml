@@ -1,3 +1,10 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="left_padding">8dp</dimen>
+    <dimen name="right_padding">8dp</dimen>
+    <dimen name="top_margin">16dp</dimen>
+
+    <dimen name="container_padding">6dp</dimen>
+    <dimen name="status_padding_horizontal">4dp</dimen>
+    <dimen name="status_padding_vertical">2dp</dimen>
 </resources>
